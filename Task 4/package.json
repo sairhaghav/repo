@@ -1,0 +1,13 @@
+{
+    "name": "todo-list",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "node app.js",
+      "build": "npm install"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^6.0.6"
+    }
+  }
+  
